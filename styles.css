@@ -260,6 +260,20 @@ body.sidebar-open .hamburger:nth-child(3) {
   margin-bottom: 0;
 }
 
+.chapter ul.book-list {
+  list-style: none;
+  padding-left: 0;
+}
+
+.chapter ul.book-list li {
+  margin-bottom: 1.25rem;
+  padding-left: 0;
+}
+
+.chapter ul.book-list li:last-child {
+  margin-bottom: 0;
+}
+
 /* ===== Chapter label (e.g. "Chapter 1") ===== */
 .chapter-label {
   margin: 0 0 0.25rem;
