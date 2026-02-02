@@ -2,9 +2,11 @@
 
 A single-page guide to essential communication skills—from eye contact and body language to tone, intonation, and more. Built for easy reading and sharing, with a **collapsible sidebar** for navigation.
 
+**Live site:** [https://nikulkumar-dabhi.github.io/Communication-Skills/](https://nikulkumar-dabhi.github.io/Communication-Skills/)
+
 ## Preview
 
-- **GitHub Pages:** After pushing, enable Pages in **Settings → Pages → Source: Deploy from branch** (main, `/ (root)`). Your site will be at `https://<username>.github.io/Communication-Skills/`.
+- **GitHub Pages:** Site is live at [https://nikulkumar-dabhi.github.io/Communication-Skills/](https://nikulkumar-dabhi.github.io/Communication-Skills/).
 - **Local preview:** Open `index.html` in a browser, or run a simple server:
   ```bash
   python3 -m http.server 8000
